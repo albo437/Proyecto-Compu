@@ -1,0 +1,15 @@
+
+.justify {
+    text-align: justify;
+}
+.center {
+    text-align: center;
+}
+        p {
+    font-size: 16px;
+    font-family: "open sans", sans-serif;
+}
+body {
+    padding: 2% 5% 2% 5%;
+    background-color: azure;
+}
