@@ -8,6 +8,9 @@ p {
    text-align: justify;
 }
 body {
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px 5px;
     padding: 2% 5% 2% 5%;
     background-color: azure;
 }
