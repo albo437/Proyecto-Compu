@@ -16,3 +16,6 @@ body {
     padding: 2% 3% 2% 3%;
     background-color: azure;
 }
+footer {
+    opacity: 0.6;
+}
