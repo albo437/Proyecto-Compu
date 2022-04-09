@@ -18,3 +18,9 @@ body {
 footer {
     opacity: 0.6;
 }
+nav {
+    color: #000;
+}
+nav:hover {
+    color: blue;
+}
