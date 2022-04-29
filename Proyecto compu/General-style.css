@@ -97,6 +97,7 @@ aside {
     outline: none;
     padding: 1.25rem;
     background: none;
+    font-size: 1rem;
   }
   
     .form__input:hover, .form__textarea:hover{
