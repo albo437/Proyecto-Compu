@@ -50,6 +50,16 @@ footer {
   color: white;
   font-size: 1.125rem;
 }
+ .topnav a:active {
+    color: blue;
+    font-size: 1.5rem;
+    font-family: Arial;
+  }
+  .topnav a:focus {
+    color: blue;
+    font-size: 1.5rem;
+    font-family: Arial;
+  }
 aside {
   position:fixed; 
   width:25%; 
