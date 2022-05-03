@@ -24,8 +24,8 @@ border-radius: 0.3125rem;
 padding: 1rem 1.5rem 1rem 1.5rem;;
 margin: 1.5625rem 0rem;
 }
-table img: hover{
-  transform: scaleX(-1); transform:scale(1.4);
+tr img: hover{
+  transform: scaleX(-1); transform: scale(1.4);
 }
 footer {
   text-align: center;
@@ -83,7 +83,7 @@ marquee img:hover{
   display: inline-block;
 }
 #container img:hover{
-  transform: scaleX(-1); transform:scale(1.4);
+  transform: scaleX(-1); transform: scale(1.4);
 }
 .form {
   position: relative;
