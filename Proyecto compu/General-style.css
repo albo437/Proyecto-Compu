@@ -93,7 +93,7 @@ marquee img:hover{
   display: inline-block;
 }
 #container img:hover{
-  transform: scaleX(-1); transform: scale(1.4);
+  transform: scaleX(-1);
 }
 .form {
   position: relative;
