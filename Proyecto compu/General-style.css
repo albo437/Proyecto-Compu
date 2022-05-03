@@ -32,12 +32,22 @@ footer {
   opacity: 0.6;
   margin: 0rem 0rem 1rem 0rem;
 }
-aside {
-  position:fixed; 
-  width:25%; 
-  top:500px; 
-  Bottom:0; right:0; left:90%;
-} 
+  aside{
+    position: fixed;
+    bottom: 1rem;
+    right: 0rem;
+    width: 200px;
+    margin: 10px;
+    border-radius: 20%;
+    background-color: rgb(173, 255, 47, 0);
+  }
+  aside h3{
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    text-align: center;
+  }
+  aside:hover{
+    box-shadow: 0px 0px  10px 10px greenyellow;
+}
 marquee img:hover{
   transform:scale(1.5);
 }
