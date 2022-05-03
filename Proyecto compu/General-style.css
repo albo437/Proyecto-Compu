@@ -29,6 +29,14 @@ footer {
   opacity: 0.6;
   margin: 0rem 0rem 1rem 0rem;
 }
+aside {
+  position:fixed; 
+  width:25%; 
+  top:500px; 
+  Bottom:0; right:0; left:90%;
+} 
+marquee img:hover{
+  transform:scale(1.5);
 .topnav {
   background-color: #262626;
   overflow: hidden;
@@ -55,12 +63,6 @@ footer {
     font-size: 1.5rem;
     font-family: Arial;
   }
-aside {
-  position:fixed; 
-  width:25%; 
-  top:500px; 
-  Bottom:0; right:0; left:90%;
-} 
 #container {
   text-align: justify;
 }
