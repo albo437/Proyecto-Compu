@@ -103,7 +103,7 @@ aside {
     padding: 1.25rem;
     background: none;
     font-size: 1rem;
-    font: times-new-roman;
+    font-family: times-new-roman;
   }
   
     .form__input:hover, .form__textarea:hover{
