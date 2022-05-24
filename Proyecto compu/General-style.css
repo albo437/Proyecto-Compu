@@ -80,22 +80,23 @@ marquee img:hover{
     font-size: 1.2rem;
     font-family: 'Times New Roman', Times, serif;
   }
-#container {
+.container {
   text-align: justify;
+  width: 100%;
 }
-#container > div {
+.container > div {
   width: 25rem; 
-  display:inline-block;
+  display:inline-flex;
   vertical-align: top;
   *display: inline;
   zoom: 1;
 }
-#container:after {
+.container:after {
   content: "";
   width: 100%;
-  display: inline-block;
+  display: inline-flex;
 }
-#container img:hover{
+.container img:hover{
   transform: scaleX(-1);
 }
 .form {
